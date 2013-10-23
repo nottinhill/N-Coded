@@ -235,7 +235,7 @@ code, tt {
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.85em;
     white-space: pre;
-    border: 1px solid #E3EDF3;
+    border: 1px solid #cfdce3;
     background: #F7FAFB;
     border-radius: 2px;
 }
@@ -244,7 +244,7 @@ pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 1.6em 0;
-    border: 1px solid #E3EDF3;
+    border: 1px solid #cfdce3;
     width: 100%;
     padding: 10px;
     font-family: Inconsolata, monospace, sans-serif;
@@ -394,6 +394,12 @@ table.plain {
     font-size: 3rem;
     letter-spacing: -1px;
     display: inline;
+}
+
+.blog-title > a {
+    color: #333333;
+    text-decoration:none;
+    border:none;
 }
 
 .blog-title-wrap {
