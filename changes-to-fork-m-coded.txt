@@ -1,0 +1,5 @@
+Changes in theme
+
+- Linking of blog title to index
+- Made code and pre border more visible to the human eye
+
